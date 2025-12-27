@@ -31,10 +31,10 @@ const App: React.FC = () => {
         
         <div className="container mx-auto text-center relative z-10">
           <span className="inline-block px-4 py-1 bg-amber-500/80 backdrop-blur-sm rounded-full text-xs font-bold tracking-widest uppercase mb-4 shadow-lg">
-            Family Trip 2024
+            Family Trip 2025
           </span>
           <h1 className="text-5xl md:text-7xl font-black mb-4 drop-shadow-lg leading-tight">
-            Azure Waves
+            Dapoli Waves
           </h1>
           <p className="text-xl md:text-2xl font-light opacity-95 serif italic mb-10">
             Dapoli • Palande • Murud
