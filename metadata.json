@@ -1,0 +1,7 @@
+{
+  "name": "Azure Waves: The Grand Family Itinerary",
+  "description": "A classic beach-themed itinerary and trip planner for family vacations, featuring interactive schedules, packing checklists, and an AI-powered travel assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
